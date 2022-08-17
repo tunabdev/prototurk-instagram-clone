@@ -22,8 +22,9 @@ module.exports = {
     },
     extend: {
       colors: {
-        "ig-gray": "#8E8E8E",
+        "ig-gray": "#8e8e8e",
         "ig-border": "#dbdbdb",
+        "ig-lightgray": "#efefef",
         brand: "#0095F6",
         facebook: "#385185",
         link: "#00376b",
